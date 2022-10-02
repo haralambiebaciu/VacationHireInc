@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFJv+L5HrrnpgJASh7CY8S4HM9vxPoRWH2ayWhxCch05zIb7Q/+1nqh+17tqfaWR7eB3ryHwbvElZN8VSY4UNg==",
+  "success": true,
+  "projectFilePath": "E:\\VacationHire\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haral_1fpy3n7\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.9\\microsoft.aspnetcore.jsonpatch.6.0.9.nupkg.sha512",
+    "C:\\Users\\haral_1fpy3n7\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.9\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.9.nupkg.sha512",
+    "C:\\Users\\haral_1fpy3n7\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\haral_1fpy3n7\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\haral_1fpy3n7\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9e1b342-217e-4de7-93ad-25f2381ad864": {
+      "ProjectGuid": "e9e1b342-217e-4de7-93ad-25f2381ad864",
+      "DisplayName": "VacationHire",
+      "ColorIndex": 0
+    },
+    "c59b2f39-a27e-4d2b-bebd-0069452ac359": {
+      "ProjectGuid": "c59b2f39-a27e-4d2b-bebd-0069452ac359",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "be337c81-3246-4a70-bbda-4a8455526fa3": {
+      "ProjectGuid": "be337c81-3246-4a70-bbda-4a8455526fa3",
+      "DisplayName": "Application",
+      "ColorIndex": 2
+    },
+    "abc9b17e-be18-4980-91db-6314fdc678a2": {
+      "ProjectGuid": "abc9b17e-be18-4980-91db-6314fdc678a2",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 3
+    },
+    "919bca6e-49a6-4945-8e70-ed0f9c281cc5": {
+      "ProjectGuid": "919bca6e-49a6-4945-8e70-ed0f9c281cc5",
+      "DisplayName": "Presentation",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
